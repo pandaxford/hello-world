@@ -2,6 +2,3 @@
 hello world
 
 test
-
-これもテスト。
-
